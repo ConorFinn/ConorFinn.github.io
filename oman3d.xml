@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gallery>
+<gallery imagePath="photos/">
 <image name="pic1">image1.jpg</image>
 <image name="pic2">image2.jpg</image>
 <image name="pic3">image3.jpg</image>
