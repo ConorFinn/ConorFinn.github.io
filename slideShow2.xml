@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow imagePath="slides/">
+<slide image="slide1.jpg">Slide 1</slide>
+<slide image="slide6.jpg">Slide 6</slide>
+</slideshow>
