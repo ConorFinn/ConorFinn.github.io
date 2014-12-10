@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <slideshow imagePath="slides/">
-<slide image="pic1">slide1.jpg</slide>
-<slide image="pic2">slide2.jpg</slide>
-<slide image="pic3">slide3.jpg</slide>
-<slide image="pic4">slide4.jpg</slide>
-<slide image="pic5">slide5.jpg</slide>
-<slide image="pic6">slide6.jpg</slide>
+<slide image="slide1">slide1.jpg</slide>
+<slide image="slide2">slide2.jpg</slide>
+<slide image="slide3">slide3.jpg</slide>
+<slide image="slide4">slide4.jpg</slide>
+<slide image="slide5">slide5.jpg</slide>
+<slide image="slide6">slide6.jpg</slide>
 </slideshow>
