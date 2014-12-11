@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<slideshow imagePath="slides/">
+<slide image="slide1.jpg">Slide 1</slide>
+<slide image="slide2.jpg">Slide 2</slide>
+<slide image="slide3.jpg">Slide 3</slide>
+<slide image="slide4.jpg">Slide 4</slide>
+<slide image="slide5.jpg">Slide 5</slide>
+<slide image="slide6.jpg">Slide 6</slide>
+<slide image="slide7.jpg">Slide 7</slide>
+<slide image="slide8.jpg">Slide 8</slide>
+<slide image="slide9.jpg">Slide 9</slide>
+<slide image="slide10.jpg">Slide 10</slide>
+<slide image="slide11.jpg">Slide 11</slide>
+<slide image="slide12.jpg">Slide 12</slide>
+<slide image="slide13.jpg">Slide 13</slide>
+<slide image="slide14.jpg">Slide 14</slide>
+<slide image="slide15.jpg">Slide 15</slide>
+<slide image="slide16.jpg">Slide 16</slide>
+<slide image="slide17.jpg">Slide 17</slide>
+<slide image="slide18.jpg">Slide 18</slide>
+<slide image="slide19.jpg">Slide 19</slide>
+<slide image="slide20.jpg">Slide 20</slide>
+<slide image="slide21.jpg">Slide 21</slide>
+</slideshow>
